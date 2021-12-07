@@ -1,4 +1,4 @@
-image: jelaniwoods/appdev2021-msm-queries@sha256:855f9f28b0b4fc6e50d6098e83321ca10864747699a37de139f1fbb7c267546e
+image: jelaniwoods/appdev2021-msm-queries-hotfix
 
 tasks:
   - command: bundle install
